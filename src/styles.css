@@ -1,0 +1,173 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Lato", sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.flex{
+    display: flex;
+}
+
+.row{
+    display: flex;
+} 
+
+.flex-1 {
+    flex: 1;
+}
+
+.flex-2 {
+    flex: 2;
+}
+
+.flex-3 {
+    flex: 3;
+}
+
+.flex-4 {
+    flex: 4;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.aic {
+    align-items: center;
+}
+
+.jcc {
+    justify-content: center;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.btn {
+    height: 40px;
+    min-width: 150px;
+    background-color: #1d1d1d;
+    padding: 10px 5px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color:  white;
+    font-weight: bold;
+    box-shadow: 0 3px 5px -1px #0003, 0 6px 10px #00000024,0 1px 18px #0000001f;  
+}
+
+.btn-main{
+    background-color: #3f51b5;
+}
+
+.gap-10 {
+    gap: 10px;
+}
+
+.gap-5 {
+    gap: 5px;
+}
+
+button:disabled{
+    cursor: not-allowed;
+    opacity: 0.8;
+}
+
+.tc{
+    text-align: center;
+}
+
+.error{
+    color: red;
+}
+
+form p{
+    margin: 0;
+}
+/******************************SIGNIN SIGNUP************************/
+.signup{
+    height: 70vh;
+}
+
+.form-container{
+    width: 500px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    border: 0.1px solid #ccc;
+    transform: translate(-50%,-50%);
+    box-shadow: 0 3px 5px -1px #0003, 0 6px 10px #00000024,0 1px 18px #0000001f;  
+}
+form{
+    padding: 5px;
+    background-color: white;
+}
+form .form-line{
+    min-height: 40px;
+    padding: 10px 0;
+}
+
+form .btn{
+    height: 45px;
+}
+
+form h2{
+    text-align: center;
+}
+.content{
+    width: 70%;
+    margin: 0 auto;
+    min-height: 70vh;
+}
+
+.unlisted{
+    list-style: none;
+    padding: 0;
+}
+
+.b{
+    border: 0.1px solid black;
+}
+
+form .form-line input{
+    font-size: 1.1rem;
+    height: 40px;
+}
+
+table{
+    border: 1px solid #ccc;
+}
+
+table td{
+    border: 1px solid #ccc;
+}
+
+@media screen and (max-width: 550px) {
+   .form-container{
+    width: 90%;
+   } 
+}
+
+@media screen and (max-width: 1200px) {
+    .content{
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .content{
+        width: 95%;
+    }
+}
+
+
+/*********************************SINGLE Product****/
+

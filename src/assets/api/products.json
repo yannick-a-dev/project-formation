@@ -1,0 +1,153 @@
+[
+    {
+      "_id": "8789898",
+      "name": "essola",
+      "description": "je suis ingenieur",
+      "category": ["Roles", "Homme"],
+      "imageUrl": [
+        "assets/images/products/image1.webp",
+        "assets/images/products/image2.webp",
+        "assets/images/products/image3.webp",
+        "assets/images/products/image4.webp"
+      ],
+      "sold_price": 787600,
+      "regular_price": 23423,
+      "created_at": "2022-03-14T16:51:07.815Z"
+    },
+    {
+        "_id": "87898098",
+        "name": "nouma",
+        "description": "je suis ingenieur",
+        "category": ["Roles", "Homme"],
+        "imageUrl": [
+          "assets/images/products/image5.webp",
+          "assets/images/products/image6.webp",
+          "assets/images/products/image7.webp",
+          "assets/images/products/image8.webp"
+        ],
+        "sold_price": 787623,
+        "regular_price": 23334,
+        "created_at": "2022-03-14T16:51:07.815Z"
+    },
+    {
+        "_id": "878989765",
+        "name": "ngamesi",
+        "description": "je suis menagere",
+        "category": ["Roles", "Femme"],
+        "imageUrl": [
+          "assets/images/products/image9.webp",
+          "assets/images/products/image10.webp",
+          "assets/images/products/image1.webp",
+          "assets/images/products/image2.webp"
+        ],
+        "sold_price": 787686,
+        "regular_price": 2353734,
+        "created_at": "2022-03-14T16:51:07.815Z"
+    },
+    {
+        "_id": "8743536898",
+        "name": "bella",
+        "description": "je suis menagere",
+        "category": ["Roles", "Femmes"],
+        "imageUrl": [
+          "assets/images/products/image3.webp",
+          "assets/images/products/image4.webp",
+          "assets/images/products/image7.webp",
+          "assets/images/products/image2.webp"
+        ],
+        "sold_price": 7876343535,
+        "regular_price": 2834,
+        "created_at": "2022-03-14T16:51:07.815Z"
+    },
+    {
+        "_id": "87898",
+        "name": "kpama",
+        "description": "je suis gendarme",
+        "category": ["Roles", "Homme"],
+        "imageUrl": [
+          "assets/images/products/image2.webp",
+          "assets/images/products/image1.webp",
+          "assets/images/products/image3.webp",
+          "assets/images/products/image8.webp"
+        ],
+        "sold_price": 78760987,
+        "regular_price": 2304,
+        "created_at": "2022-03-14T16:51:07.815Z"
+    },
+    {
+        "_id": "878098798",
+        "name": "essola",
+        "description": "je suis DJ",
+        "category": ["Roles", "Homme"],
+        "imageUrl": [
+          "assets/images/products/image4.webp",
+          "assets/images/products/image9.webp",
+          "assets/images/products/image1.webp",
+          "assets/images/products/image1.webp"
+        ],
+        "sold_price": 78760998,
+        "regular_price": 230004,
+        "created_at": "2022-03-14T16:51:07.815Z"
+    },
+    {
+        "_id": "878989908",
+      "name": "ngom",
+      "description": "je suis business woman",
+      "category": ["Roles", "Femmes"],
+      "imageUrl": [
+        "assets/images/products/image6.webp",
+        "assets/images/products/image1.webp",
+        "assets/images/products/image9.webp",
+        "assets/images/products/image1.webp"
+      ],
+      "sold_price": 7870006,
+      "regular_price": 23094,
+      "created_at": "2022-03-14T16:51:07.815Z"
+    },
+    {
+        "_id": "87898909",
+      "name": "fabien",
+      "description": "je suis ecolier",
+      "category": ["Roles", "Femmes"],
+      "imageUrl": [
+        "assets/images/products/image10.webp",
+        "assets/images/products/image9.webp",
+        "assets/images/products/image1.webp",
+        "assets/images/products/image1.webp"
+      ],
+      "sold_price": 7876345,
+      "regular_price": 234,
+      "created_at": "2022-03-14T16:51:07.815Z"
+    },
+    {
+        "_id": "877899",
+      "name": "julien",
+      "description": "je suis là",
+      "category": ["Roles", "Femmes"],
+      "imageUrl": [
+        "assets/images/products/image8.webp",
+        "assets/images/products/image9.webp",
+        "assets/images/products/image1.webp",
+        "assets/images/products/image1.webp"
+      ],
+      "sold_price": 7876898,
+      "regular_price": 234,
+      "created_at": "2022-03-14T16:51:07.815Z"
+    },
+    {
+        "_id": "87898",
+      "name": "lucie",
+      "description": "je suis etudiante",
+      "category": ["Roles", "Femmes"],
+      "imageUrl": [
+        "assets/images/products/image7.webp",
+        "assets/images/products/image1.webp",
+        "assets/images/products/image4.webp",
+        "assets/images/products/image1.webp"
+      ],
+      "sold_price": 787623,
+      "regular_price": 234,
+      "created_at": "2022-03-14T16:51:07.815Z"
+    }
+
+  ]
